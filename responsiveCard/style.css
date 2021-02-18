@@ -27,7 +27,7 @@ a {
 }
 
 .card {
-  width: 500px;
+  max-width: 500px;
   height: 270px;
   background-color: #fff;
   display: flex;
